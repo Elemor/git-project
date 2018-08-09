@@ -1,0 +1,4 @@
+#comment: folder logs
+logs/
+#only for .txt
+docs/*.txt
